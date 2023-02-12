@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GSNpdpYOkvZvR9J0YkSxIpKJO0E2Yz71hiLqaSd/B32uwJYejaHxTzn9mMpSZ5bRR3ugK/0VxlXaHqSDyLGftQ==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo de Desenvolvimento\\CSharp\\TestesSelenium\\TestesSelenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cleiton\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\selenium.webdriver\\4.8.0\\selenium.webdriver.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
